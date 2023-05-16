@@ -21,7 +21,7 @@ const data = [
   },
   {
     question: "O que eu pensei depois da nossa primeira conversa",
-    options: ["ahh que garota legal", "umm tem um bom papo", "uhhh ela deu chance", "Cara ela e difrente...."],
+    options: ["ahh que garota legal", "umm tem um bom papo", "uhhh ela deu chance", "Cara ela e diferente...."],
     answer: "Cara ela e difrente....",
   },
   {
