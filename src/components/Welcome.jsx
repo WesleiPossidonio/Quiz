@@ -3,7 +3,7 @@ import { QuizContext } from "../context/quiz";
 
 import "./Welcome.css";
 
-import Quiz from "../img/ImageHome.svg";
+import Quiz from "../img/imageHome";
 
 const Welcome = () => {
   const [quizState, dispatch] = useContext(QuizContext);
