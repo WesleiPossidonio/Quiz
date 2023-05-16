@@ -20,8 +20,8 @@ const data = [
     answer: "Tudo",
   },
   {
-    question: "O que eu pensei depois da nossa primeira conversa",
-    options: ["ahh que garota legal", "umm tem um bom papo", "uhhh ela deu chance", "Cara ela e diferente...."],
+    question: "O que eu pensei depois da nossa primeira conversa?",
+    options: ["Ahh que garota legal", "Umm tem um bom papo", "Uhhh ela deu chance", "Cara ela e diferente...."],
     answer: "Cara ela e difrente....",
   },
   {
